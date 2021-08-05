@@ -11,7 +11,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import MortgageDetails from './components/mortgageDetails';
 import CalculationTable from './components/calculationTable';
 import MortgageSummary from './components/mortgageSummary';
-import PaymentDiagram from './components/paymentDiagram';
 
 const useStyles = makeStyles(() => ({
   root: {
@@ -63,7 +62,6 @@ function App() {
               <MortgageSummary />
             </Grid>
           </Grid>
-          <PaymentDiagram />
       </Container>
     </div>
   );
