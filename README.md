@@ -9,7 +9,7 @@ This repo is hosted on the [Netlify](https://www.netlify.com/) and can be access
 
 Below are few screenshots of the applications.
 
- ![Mortgage Calculator Input Screen](/public/Mortgage-Calculator-Calculations.jpg?raw=true)
+ ![Mortgage Calculator Input Screen](/public/Mortgage-Calculator-Inputs.jpg?raw=true)
  ![Mortgage Calculator Calculations Screen](/public/Mortgage-Calculator-Calculations.jpg?raw=true)
 
 ## How to Run the project
